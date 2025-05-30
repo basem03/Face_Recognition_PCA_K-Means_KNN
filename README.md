@@ -22,6 +22,8 @@ This project is ideal for learning about face recognition, dimensionality reduct
   - **Image Size**: 92x112 pixels (10304 pixels when flattened)
   - **Total Images**: 400
   - **Split**: Odd-indexed images (5 per subject) for training, even-indexed images (5 per subject) for testing
+    
+**Note**: The ORL dataset is not included in this repository due to licensing restrictions. You must download it from the provided Kaggle link and configure the dataset path in the notebook.
 
 ## Methodology
 The face recognition system follows these steps:
